@@ -1,0 +1,16 @@
+.sizeStyle {
+    border: "5px solid #d9d9d9";
+    background: "#d9d9d9";
+}
+
+.img {
+    width: "90%";
+    height: "10vh";
+    /* objectFit: "cover"; */
+}
+
+.imgSize {
+    width: "100%";
+    height: "10vh";
+    objectFit: "cover";
+}

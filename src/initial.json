@@ -1,0 +1,56 @@
+{
+  "Carrusels" :[
+   {
+      "title": "carrusel1.png",
+     "url" : "https://firebasestorage.googleapis.com/v0/b/tunicata-web.appspot.com/o/images%2Fcarrusel1.png?alt=media&token=6e72060c-e838-4943-b91a-241934fcbf71",
+     "description": "Fabricante de camas para perros y gatos",
+     "urlLeft": "",
+     "urlRight": ""
+ },
+    {
+       "title": "carrusel2.png",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/tunicata-web.appspot.com/o/images%2Fcarrusel2.png?alt=media&token=bd71e80a-ac27-4733-8f6a-3ec2f2da86d5",
+      "description": "    Fabricante de ropa para perros",
+      "urlLeft": "",
+      "urlRight": ""
+     },
+    {
+       "title": "carrusel3.png",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/tunicata-web.appspot.com/o/images%2Fcarrusel3.png?alt=media&token=0a15a734-dafb-4bc8-9879-5d97d5d7c7e7",
+      "description": "Tienda en linea de productos para animales de compañia en México",
+      "urlLeft": "",
+      "urlRight": ""
+     }
+  ],
+  "CarruselsText" :[
+    {
+      "description": "  Fabricante de ropa para perros",
+      "urlLeft": "",
+      "urlRight": ""
+     },
+    {
+      "description": "Fabricante de camas para perros y gatos",
+      "urlLeft": "",
+      "urlRight": ""
+     },
+    {
+      "description": "Tienda en linea de productos para animales de compañia en México",
+      "urlLeft": "",
+      "urlRight": ""
+     }
+  ],
+  "Measure": [
+    {
+      "id": 1,
+      "name": "Medinas Bones.jpg",
+      "type": "Bones",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/tunicata-web.appspot.com/o/images%2FCatalogs%2FMedidas%20Bones.jpg?alt=media&token=bbce0a37-6a51-4792-a417-0899606667d3"
+    },
+    {
+      "id": 2,
+      "name": "Medinas josua.jpg",
+      "type": "Josua",
+      "url" : "https://firebasestorage.googleapis.com/v0/b/tunicata-web.appspot.com/o/images%2FCatalogs%2FMedidas%20josua.jpg?alt=media&token=e4f6730a-bcf1-4d62-b32c-d622ebd632ad"
+    }
+  ]
+}
